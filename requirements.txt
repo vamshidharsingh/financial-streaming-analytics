@@ -1,0 +1,7 @@
+confluent-kafka
+psycopg2-binary
+streamlit
+faker
+python-dotenv
+pandas
+pytest

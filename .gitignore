@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+venv/
+__pycache__/
+.env
+*.pkl
+*.joblib
+.pytest_cache/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.log
+models/
